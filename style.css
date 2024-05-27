@@ -1,4 +1,4 @@
-* ESTILO GERAL */
+/* ESTILO GERAL */
 *{
 
     margin:0;
@@ -31,7 +31,7 @@
         padding: 10px 40px;
         font-size: 18px;
         font-weight: 600;
-        background-color: #37e1ff;
+        background-color: #964b00;
         border: 0;
         border-radius: 30px;
         cursor: pointer;
@@ -39,7 +39,7 @@
         }
         
         h2.titulo span{
-            color: #37e1ff;
+            color: #964b00;
         }
     
      button:hover, form .btn-enviar input:hover{
@@ -76,7 +76,7 @@
         transition: .2s;
     }
     header nav.menu-desktop a:hover{
-        color: #37e1ff;
+        color: #ff3737;
         transform: scale(1.05);
     }
     header nav ul{
