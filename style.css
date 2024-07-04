@@ -252,7 +252,7 @@
     }
     
     .sobre .txt-sobre{
-        color: #fff;
+        color: #2f4538;
     
     }
     
@@ -517,6 +517,3 @@
 .menu-desktop, .EF-contato, .titulo, .img-topo-site, .btn-abrir-menu, .menu-mobile, .txt-topo-site, .especialidades, .interface, .titulo, .flex, .especialidades-box, .sobre, .portfolio, .formulario, .interface {
     visibility:hidden;
 }
-
-
-    
