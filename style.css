@@ -27,23 +27,23 @@
         display: flex;
     }
     
-    .EF-contato button{
+    .EF-contato button {
         padding: 20px 40px;
         font-size: 18px;
         font-weight: 600;
-        background-color: #964b00;
-        border: 0;
+        background-color: #ffffff;
+        border: 2px solid #000000; /* Adiciona uma borda preta */
         border-radius: 30px;
         cursor: pointer;
-        transition: .2s;
-        }
+        transition: all 0.2s; /* Transição para todos os efeitos */
+    }
         
         h2.titulo span{
             color: #964b00;
         }
     
      button:hover, form .btn-enviar input:hover{
-            box-shadow: 0px 0px 8px #fafafa;
+            box-shadow: 0px 0px 8px #8B4513;
             transform: scale(1.05);
         }    
     
