@@ -76,10 +76,10 @@
         transition: .2s;
     }
     header nav.menu-desktop a:hover {
-        color: #ff3737;
+        color: #964b00;
         transform: scale(1.05);
         font-weight: bold; /* Adiciona negrito */
-        text-shadow: 0 0 5px #a52a2a; /* Adiciona brilho cor marrom */
+        text-shadow: 0 0 5px #964b00; /* Adiciona brilho cor marrom */
     }
     header nav ul{
         list-style-type: none;
