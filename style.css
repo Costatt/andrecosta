@@ -252,9 +252,13 @@
         gap: 60px;
     }
     
-    .sobre .txt-sobre {
+    .sobre  {
         color: #ffffff; /* Define a cor do texto como branco */
         -webkit-text-stroke: 1px #000000; /* Adiciona uma borda preta nas letras */
+    }
+
+    .txt-sobre {
+        color: #ffffff; /* Define a cor do texto como branco */
     }
     
     .sobre .txt-sobre h2{
