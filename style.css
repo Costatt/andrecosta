@@ -210,7 +210,7 @@
         color: #fff;
         font-size: 38px;
         text-align: center;
-    
+        -webkit-text-stroke: 1px #000000; /* Adiciona uma borda preta ao redor das letras */
     }
     
     
