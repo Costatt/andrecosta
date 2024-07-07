@@ -167,15 +167,19 @@
         gap: 90px;
     }
     
-    .topo-do-site h1{
-        color: #000000;
+    .topo-do-site h1 {
+        color: #ffffff; /* Define a cor do texto como branco */
         font-size: 42px;
         line-height: 40px;
+        -webkit-text-stroke: 1px #000000; /* Adiciona uma borda preta ao redor das letras */
     }
     
-    .topo-do-site h1 span{
-        color: #ff3737 ;
+    
+    .topo-do-site h1 span {
+        color: #000000; /* Define a cor do texto como preto */
+        -webkit-text-stroke: 1px #ffffff; /* Adiciona uma borda branca ao redor das letras */
     }
+    
     
     .topo-do-site .txt-topo-site p {
     
