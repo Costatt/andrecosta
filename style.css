@@ -28,8 +28,8 @@
     }
     
     .EF-contato button {
-        padding: 20px 40px;
         margin-top: 5px;
+        padding: 20px 40px;
         font-size: 18px;
         font-weight: 600;
         background-color: #ffffff;
@@ -264,7 +264,7 @@
     }
     
     .sobre .txt-sobre h2 span{
-    color: #37e1ff;
+    color: #964b00;
     display: block;
     }
     
