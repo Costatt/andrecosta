@@ -221,7 +221,7 @@
     
     .especialidades .especialidades-box{
         font-size: 20px;
-        color: #fff;
+        color: #000000;
         border-radius: 10px ;
         margin-top: 45px;
         transition: .2s;
@@ -252,9 +252,9 @@
         gap: 60px;
     }
     
-    .sobre .txt-sobre{
-        color: #2f4538;
-    
+    .sobre .txt-sobre {
+        color: #ffffff; /* Define a cor do texto como branco */
+        -webkit-text-stroke: 1px #000000; /* Adiciona uma borda preta nas letras */
     }
     
     .sobre .txt-sobre h2{
