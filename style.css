@@ -44,7 +44,7 @@
         }
     
      button:hover, form .btn-enviar input:hover{
-            box-shadow: 0px 0px 8px #8B4513;
+            box-shadow: 0px 0px 8px #093a09;
             transform: scale(1.05);
         }    
     
@@ -272,7 +272,7 @@
     }
     
     .sobre .txt-sobre h2 span{
-    color: #964b00;
+    color: #093a09;
     display: block;
     }
     
